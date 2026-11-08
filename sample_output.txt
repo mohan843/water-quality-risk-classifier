@@ -1,0 +1,3 @@
+$ python classifier.py --ph 7.2 --turbidity-ntu 1.2 --nitrate-mg-l 2.0 --temperature-c 18
+Training accuracy: 100.0%
+Predicted contamination risk: low
